@@ -1,6 +1,6 @@
 # SomeApps
 
-This is a placeholder from plaster template, modify it please
+This is mainly for learning purposes, the plan is to utilize some community modules (chocolatey in particular) to install some (predefined/selectable) applications from choco repository.
 
 ## Builds
 
