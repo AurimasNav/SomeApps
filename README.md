@@ -4,7 +4,7 @@ This is a placeholder from plaster template, modify it please
 
 ## Builds
 
-|developement|production|
+|development|production|
 |------------|----------|
 |![dev-img]|![prod-img]|
 
